@@ -16,7 +16,6 @@
 - 📍 Recife, Pernambuco — Brasil
 - 🎯 Focado em desenvolvimento back-end e sistemas
 - 🌱 Aprendendo e evoluindo com **C#** e o ecossistema **.NET**
-- 🔧 Também trabalho com **C** em projetos de lógica e sistemas
 - 💡 Gosto de resolver problemas com código simples e direto
 
 ---
@@ -25,7 +24,6 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
