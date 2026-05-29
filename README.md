@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Yago Victor!
 
-### Desenvolvedor apaixonado por código limpo e soluções eficientes
+### Desenvolvedor backend em formação, focado em desenvolver soluções eficientes.
 
 [![GitHub followers](https://img.shields.io/github/followers/yV1ctorr?label=Followers&style=social)](https://github.com/yV1ctorr)
 [![GitHub stars](https://img.shields.io/github/stars/yV1ctorr?label=Stars&style=social)](https://github.com/yV1ctorr)
