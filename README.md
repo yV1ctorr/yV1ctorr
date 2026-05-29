@@ -67,6 +67,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yV1ctorr&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views" />
-  
-  *"Feito com ☕ e muitas linhas de código em Recife. "*
 </div>
