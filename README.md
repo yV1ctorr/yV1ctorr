@@ -40,6 +40,7 @@
 |--------|-----------|-----------|
 | [Crud_Farmacia_C](https://github.com/yV1ctorr/Crud_Farmacia_C) | Sistema CRUD para gerenciamento de farmácia | C |
 | [.NETfundamentos](https://github.com/yV1ctorr/.NETfundamentos) | Estudos e fundamentos da plataforma .NET | C# |
+| [FeiGital](https://github.com/yV1ctorr/FeiGital) | Sistema de e-commerce para feiras digitais desenvolvido em Django. | Django |
 
 ---
 
