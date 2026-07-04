@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mim
 
 - 📍 Recife, Pernambuco — Brasil
-- 🎯 Focado em desenvolvimento back-end e sistemas
+- 🎯 Focado em desenvolvimento back-end
 - 🌱 Aprendendo e evoluindo com **C#** e o ecossistema **.NET**
 - 💡 Gosto de resolver problemas com código simples e direto
 
